@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 17,
+    "uniqCompNum": 19,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
@@ -12,7 +12,7 @@
         "primaryColor": "#7e9b9f",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#475577",
         "warningColor": "#ffffff",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -247,6 +247,29 @@
           "text": "Copyright (c) 2016 Mobirise."
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a38f84",
+            "showMeta": true
+          },
+          "title": "Future Career Goals",
+          "meta": ""
+        },
+        {
           "_inherit": "features1",
           "_tags": [
             "Theme"
@@ -263,7 +286,7 @@
               "font-size": "11px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle B": {
-              "font-size": "18px",
+              "font-size": "19px",
               "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
@@ -271,14 +294,21 @@
               "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "19px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "19px"
             }
           },
           "_anchor": "features2-2",
           "_params": {
             "columnsColor": "#a38f84",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -312,7 +342,7 @@
           },
           "title1": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Set Designer</span><br>",
           "subtitle1": "",
-          "caption1": "Working on a set is more than just creating the setting for a story. Its the foundation of the tale being displayed to a &nbsp;&nbsp;",
+          "caption1": "Working on a set is more than just creating the setting for a story. Its the foundation of the tale being displayed to a audience. I would love to do this career in my lifetime and be able to make people's stories come to life.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -344,7 +374,7 @@
           },
           "title3": "<br>Craft and Fine Artist",
           "subtitle3": "",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {

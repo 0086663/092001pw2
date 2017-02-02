@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
@@ -85,7 +85,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -203,139 +203,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_inherit": "contacts3",
-          "_styles": {
-            "p, .list-group-text, .form-control-label": {
-              "color": "#000"
-            },
-            "strong, h4": {
-              "color": "#7e9b9f"
-            },
-            "form .form-control": {
-              "border-color": "rgba(0, 0, 0, 0.2)",
-              "color": "#565656"
-            },
-            ".mbr-footer-content li": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
-            },
-            ".mbr-company .list-group-text::after": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
-            },
-            "H4": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            ".list-group-text": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts5",
-          "_anchor": "contacts5-q",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts5",
-              "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "text2": "786 - 521 -0572",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts5",
-              "linkInNewWindow": false,
-              "name": "map-pin",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "text3": "4358 SW 164 Ct 33185 &nbsp;Miami, FL",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts5",
-              "linkInNewWindow": false,
-              "name": "envelope",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">b</a>perez@miamiartsstudio.com",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design and Fine Arts</a></li><li><a class=\"text-primary\" href=\"#\">Future Opportunities</a></li><li><a class=\"text-primary\" href=\"#\">Career Placement</a></li><li><a class=\"text-primary\" href=\"#\">Education</a></li>",
-          "text6": "<br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "bperez@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me!</a>"
         },
         {
           "_styles": {
@@ -511,6 +378,139 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            ".list-group-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text2": "786 - 521 -0572",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "4358 SW 164 Ct 33185 &nbsp;Miami, FL",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">b</a>perez@miamiartsstudio.com",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design and Fine Arts</a></li><li><a class=\"text-primary\" href=\"#\">Future Opportunities</a></li><li><a class=\"text-primary\" href=\"#\">Career Placement</a></li><li><a class=\"text-primary\" href=\"#\">Education</a></li>",
+          "text6": "<br><br><br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "bperez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me!</a>"
         }
       ]
     },
@@ -551,13 +551,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#8c7568"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#9c877b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#a38f84"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -570,7 +570,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -746,13 +746,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#8c7568"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#9c877b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#a38f84"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -765,7 +765,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -902,13 +902,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#8c7568"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#9c877b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#a38f84"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -921,7 +921,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",

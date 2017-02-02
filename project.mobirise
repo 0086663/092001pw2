@@ -138,6 +138,15 @@
               "color": "#ffffff",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "72px"
+            },
+            ".mbr-section-text SPAN": {
+              "font-size": "18px"
             }
           },
           "_anchor": "header2-8",
@@ -184,7 +193,7 @@
             }
           },
           "title": "<br><span style=\"line-height: 1.1;\">Bianca Perez</span><br>",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>You must be the change you wish to see in the world </i>&nbsp;</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>—Gandhi</i></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -316,7 +325,7 @@
           },
           "title2": "",
           "subtitle2": "<font color=\"#ffffff\"><span style=\"font-size: 19px; line-height: 33px;\"><b>Photography Director</b></span></font><div><font color=\"#ffffff\"><span style=\"font-size: 19px; line-height: 33px;\"><b><br></b></span></font></div>",
-          "caption2": "Being a photography director",
+          "caption2": "Being a photography director&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {

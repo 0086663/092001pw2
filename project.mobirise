@@ -448,7 +448,7 @@
             }
           },
           "title2": "",
-          "subtitle2": "<b><br></b><b>Photography Director<br></b><br>",
+          "subtitle2": "<font color=\"#ffffff\"><span style=\"font-size: 19px; line-height: 33px;\"><b>Photography Director</b></span></font><div><font color=\"#ffffff\"><span style=\"font-size: 19px; line-height: 33px;\"><b><br></b></span></font></div>",
           "caption2": "Being a photography director",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {

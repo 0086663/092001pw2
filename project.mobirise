@@ -23,7 +23,8 @@
         "isScrollToTopButton": false
       }
     },
-    "path": "@PROJECT_PATH@"
+    "path": "file:///C:/Users/0086663/Desktop",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {

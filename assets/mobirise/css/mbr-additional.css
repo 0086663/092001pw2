@@ -8,6 +8,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -447,19 +450,19 @@ h6,
 }
 #ext_menu-6 .link[aria-expanded="true"],
 #ext_menu-6 .dropdown-menu {
-  background: #8c7568;
+  background: #615753;
 }
 #ext_menu-6 .nav-dropdown-sm .link:focus,
 #ext_menu-6 .nav-dropdown-sm .link:hover,
 #ext_menu-6 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-6 .nav-dropdown-sm .dropdown-item:hover {
-  background: #9c877b!important;
+  background: #746964!important;
 }
 #ext_menu-6 .navbar,
 #ext_menu-6 .nav-dropdown-sm,
 #ext_menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-6 .nav-dropdown-sm .dropdown-menu {
-  background: #a38f84;
+  background: #7c706b;
 }
 #ext_menu-6 .bg-color.transparent .link {
   color: #ffffff;
@@ -501,16 +504,17 @@ h6,
   background-color: #a38f84;
 }
 #features2-2 .mbr-cards-col:nth-child(even) .card-subtitle {
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 11px;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: #ffffff;
 }
 #features2-2 .mbr-cards-col:nth-child(even) .card-subtitle B {
   font-size: 19px;
   color: #ffffff;
 }
 #features2-2 .mbr-cards-col:nth-child(even) .card-text {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 #features2-2 .mbr-cards-col:nth-child(even) .card-title {
@@ -521,7 +525,25 @@ h6,
   text-align: left;
 }
 #features2-2 .mbr-cards-col:nth-child(odd) .card-title {
-  font-size: 19px;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+}
+#features2-2 .mbr-cards-col:nth-child(even) .card-subtitle SPAN {
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+  font-size: 16px;
+}
+#features2-2 .mbr-cards-col:nth-child(odd) .card-title SPAN {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+  color: #efefef;
+}
+#content8-s .mbr-section-title,
+#content8-s p {
+  text-align: right;
+  color: #fff;
 }
 #contacts5-q p,
 #contacts5-q .list-group-text,
